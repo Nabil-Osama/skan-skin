@@ -1,0 +1,7 @@
+gunicorn
+ultralytics
+PIL
+flask
+
+
+
